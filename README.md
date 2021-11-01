@@ -1,6 +1,8 @@
 👋 Hi there, I'm Andrew.
 
-- I’m an active contributor to [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) and time-to-time to other open source projects.
-- 🔭 My primary focus is on cloud-native web applications and DevOps now.
-- 🌱 I’m currently learning distributed systems.
+- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) and other open source projects contributor.
+- 💻 My primary focus is on Ruby and cloud infrastructure consulting/contracting now.
+- 🌱 Learn system design and networking.
 - 🏠 Remote work and asynchronouse communication adept.
+- 📈 Visual learner.
+- 🕐 Manager of one.
